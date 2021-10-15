@@ -12,8 +12,8 @@ from selenium.webdriver.chrome.options import Options
 driver = webdriver.Chrome(executable_path=("D://chromedriver.exe"))
 
 
-username = "amathdeveru_"
-userpassword = "Vishal@1234"
+username = "your username"
+userpassword = "your password"
 
 # Integrating speech module
 
